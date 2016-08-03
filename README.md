@@ -41,5 +41,5 @@ Our implementation of the garbage collector can be found at:
 
 2. T. Ugawa, R. E. Jones, C. G. Ritson: Reference object processing
    in on-the-fly garbage collection, In Proceedings of the 2014
-   international symposium on Memory management (ISMM '14),
-   pp. 56--69, (2014).
+   International Symposium on Memory Management (ISMM '14),
+   pp. 56--69, (2014). DOI:10.1145/2602988.2602991
